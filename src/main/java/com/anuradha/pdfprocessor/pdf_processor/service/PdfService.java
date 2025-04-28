@@ -1,4 +1,4 @@
-package com.anuradha.pdfprocessor.service;
+package com.anuradha.pdfprocessor.pdf_processor.service;
 
 import org.springframework.stereotype.Service;
 
