@@ -152,8 +152,8 @@ Feel free to check the [issues page](https://github.com/your-username/pdf-proces
 ---
 
 ## 📄 License
-Distributed under the MIT License.  
-See `LICENSE` for more information.
+Distributed under the [MIT License](LICENSE).
+
 
 ---
 
