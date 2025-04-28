@@ -1,0 +1,33 @@
+{
+  "name": "pdf-processor",
+  "version": "1.0.0",
+  "description": "Backend service for advanced PDF operations including merge, split, compress, and encryption. Built with Java, Spring Boot, and Kafka for scalable enterprise environments.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no tests yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anuradhapatil-dev/PDF-Processor.git"
+  },
+  "keywords": [
+    "PDF",
+    "Spring Boot",
+    "Microservices",
+    "Kafka",
+    "Java",
+    "Document Processor",
+    "Enterprise Backend"
+  ],
+  "author": "Anuradha Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anuradhapatil-dev/PDF-Processor/issues"
+  },
+  "homepage": "https://github.com/anuradhapatil-dev/PDF-Processor#readme",
+  "devDependencies": {
+    "vite": "^6.3.3"
+  }
+}
