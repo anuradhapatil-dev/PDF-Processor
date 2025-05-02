@@ -1,11 +1,7 @@
 package com.anuradha.pdfprocessor.pdf_processor.service;
 
-import org.springframework.stereotype.Service;
+import org.springframework.web.multipart.MultipartFile;
 
-@Service
-public class PdfService {
-
-    public void mergePdfs() {
-        // TODO: Will implement merge logic here
-    }
+public interface PdfService {
+    byte[] mergePdfs(MultipartFile[] files);
 }
